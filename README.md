@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Deepesh!
-- 👀 I’m interested in coding, learning to become a full stack developer. 
+- 👀 I’m interested in coding, on the learning path to become a full stack developer. 
 - 🌱 I’m currently learning python at Developers Institute Mauritius.
 - 💞️ I’m look forward to learn more about programming and contribute to projects.
 - 📫 I'm reachable on madoo12@live.com and +23058271793.
